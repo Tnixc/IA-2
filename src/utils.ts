@@ -17,11 +17,10 @@ export async function transcribe(audio: Blob) {
   });
 
   if (response.ok) {
-    const data = await response.json();
-    console.log(data);
+    const data: JSON = await response.json();
+    // console.log(data);
     return data;
   } else {
     console.error(response.status, response.statusText);
-    return null;
   }
 }

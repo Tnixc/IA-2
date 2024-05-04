@@ -1,0 +1,4793 @@
+{
+  "text":" kind of a big week for news. TikTok, as we talked about this at the beginning, Congress says, the US Congress has passed a law giving TikTok's parent company, Bite Dance, until January of next year to sell the app or it will be blocked from US app stores and internet service providers. Is this what it would take for iPhone users to finally say, hey, we need to be able to side load? Is this what it would take to make the iPhone uncool with Gen Z's and Gen Alphas? If you couldn't put TikTok on it because there's no way to side load an app and TikTok isn't in the app store. Anyway, this forced divestment was passed as part of a large foreign aid package targeted at Ukraine, Israel, and Taiwan. Bite Dance has promised to fight the legislation in court calling it an unconstitutional infringement on American users free speech rights. Sources inside the company have told Reuters that Bite Dance leadership would rather TikTok shut down than sell it. I honestly can kind of see that. Like, this is my ball. I'm gonna play with it or I'm going home or take it with me. A major reason lawmakers gave for the decision to force Bite Dance to divest from TikTok is the lack of a barrier between the Chinese government and Chinese companies. National security and privacy experts have expressed concern. Both the app could be used to access sensitive user information and that its algorithm could be used to manipulate public opinion about the CCP. I guess what I'm asking is, why aren't you forcing Facebook to sell to who even? I don't know. Or Twitter to sell to who even. I don't know. Like if basically your concern in a nutshell is that there's an entity controlling this app that you can't control and that could tune its algorithm for its own purposes. I don't know, man. I'm not exactly pro-China. I think that's... That entity is specifically another country. Because I see where you're going and I do think you're entirely right. But I think they're like, ooh, this is, what is it? Foreign, foreign national interference or whatever? I don't know what the term for it, but I think it's something that they're fighting against. Who do you wanna see by it? Is our discussion question. And I really, can I say the brackets? Can I say the brackets? Sure. In brackets it says, don't say Elon. Ha ha ha ha! I mean, if you hate TikTok, maybe you would like to see... I was gonna say I kinda want it to be Elon. Ha ha ha ha ha! Oh man. I just, I think the part of me that just like loves to see things burn sometimes. Just, you know, why not? It is entertaining. It's another thing that I don't like or use. So like, whatever.",
+  "segments":[
+    {
+      "id":0,
+      "seek":0,
+      "start":0,
+      "end":1.24,
+      "text":" kind of a big week for news.",
+      "tokens":[
+        50364,
+        733,
+        295,
+        257,
+        955,
+        1243,
+        337,
+        2583,
+        13,
+        50480
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" kind",
+          "start":0,
+          "end":0.18,
+          "probability":0.15991497039794922
+        },
+        {
+          "word":" of",
+          "start":0.18,
+          "end":0.26,
+          "probability":0.9963769316673279
+        },
+        {
+          "word":" a",
+          "start":0.26,
+          "end":0.34,
+          "probability":0.9803478121757507
+        },
+        {
+          "word":" big",
+          "start":0.34,
+          "end":0.46,
+          "probability":0.988983690738678
+        },
+        {
+          "word":" week",
+          "start":0.46,
+          "end":0.66,
+          "probability":0.9884082674980164
+        },
+        {
+          "word":" for",
+          "start":0.66,
+          "end":0.86,
+          "probability":0.995978593826294
+        },
+        {
+          "word":" news.",
+          "start":0.86,
+          "end":1.24,
+          "probability":0.9724333882331848
+        }
+      ]
+    },
+    {
+      "id":1,
+      "seek":0,
+      "start":2.12,
+      "end":4.66,
+      "text":" TikTok, as we talked about this at the beginning,",
+      "tokens":[
+        50480,
+        20211,
+        11,
+        382,
+        321,
+        2825,
+        466,
+        341,
+        412,
+        264,
+        2863,
+        11,
+        50604
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" TikTok,",
+          "start":2.12,
+          "end":2.6,
+          "probability":0.5281190872192383
+        },
+        {
+          "word":" as",
+          "start":3.12,
+          "end":3.22,
+          "probability":0.8366666436195374
+        },
+        {
+          "word":" we",
+          "start":3.22,
+          "end":3.38,
+          "probability":0.8210117816925049
+        },
+        {
+          "word":" talked",
+          "start":3.38,
+          "end":3.9,
+          "probability":0.9835183620452881
+        },
+        {
+          "word":" about",
+          "start":3.9,
+          "end":4.14,
+          "probability":0.9914453029632568
+        },
+        {
+          "word":" this",
+          "start":4.14,
+          "end":4.28,
+          "probability":0.48594990372657776
+        },
+        {
+          "word":" at",
+          "start":4.28,
+          "end":4.4,
+          "probability":0.9556127786636353
+        },
+        {
+          "word":" the",
+          "start":4.4,
+          "end":4.44,
+          "probability":0.997795820236206
+        },
+        {
+          "word":" beginning,",
+          "start":4.44,
+          "end":4.66,
+          "probability":0.9984068274497986
+        }
+      ]
+    },
+    {
+      "id":2,
+      "seek":0,
+      "start":4.84,
+      "end":7.36,
+      "text":" Congress says, the US Congress has passed a law giving",
+      "tokens":[
+        50604,
+        6426,
+        1619,
+        11,
+        264,
+        2546,
+        6426,
+        575,
+        4678,
+        257,
+        2101,
+        2902,
+        50738
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" Congress",
+          "start":4.84,
+          "end":5.1,
+          "probability":0.7170641422271729
+        },
+        {
+          "word":" says,",
+          "start":5.1,
+          "end":5.54,
+          "probability":0.5144164562225342
+        },
+        {
+          "word":" the",
+          "start":5.76,
+          "end":5.8,
+          "probability":0.72022545337677
+        },
+        {
+          "word":" US",
+          "start":5.8,
+          "end":5.98,
+          "probability":0.5391303896903992
+        },
+        {
+          "word":" Congress",
+          "start":5.98,
+          "end":6.34,
+          "probability":0.9763224124908447
+        },
+        {
+          "word":" has",
+          "start":6.34,
+          "end":6.58,
+          "probability":0.9293863773345947
+        },
+        {
+          "word":" passed",
+          "start":6.58,
+          "end":6.86,
+          "probability":0.9688828587532043
+        },
+        {
+          "word":" a",
+          "start":6.86,
+          "end":6.98,
+          "probability":0.9600769281387329
+        },
+        {
+          "word":" law",
+          "start":6.98,
+          "end":7.14,
+          "probability":0.9793664813041687
+        },
+        {
+          "word":" giving",
+          "start":7.14,
+          "end":7.36,
+          "probability":0.9428308010101318
+        }
+      ]
+    },
+    {
+      "id":3,
+      "seek":0,
+      "start":7.36,
+      "end":8.94,
+      "text":" TikTok's parent company, Bite Dance,",
+      "tokens":[
+        50738,
+        20211,
+        311,
+        2596,
+        2237,
+        11,
+        48012,
+        16114,
+        11,
+        50834
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" TikTok's",
+          "start":7.36,
+          "end":7.94,
+          "probability":0.9223563075065613
+        },
+        {
+          "word":" parent",
+          "start":7.94,
+          "end":8.08,
+          "probability":0.9616590738296509
+        },
+        {
+          "word":" company,",
+          "start":8.08,
+          "end":8.5,
+          "probability":0.9686207175254822
+        },
+        {
+          "word":" Bite",
+          "start":8.54,
+          "end":8.68,
+          "probability":0.46793457865715027
+        },
+        {
+          "word":" Dance,",
+          "start":8.68,
+          "end":8.94,
+          "probability":0.8046492338180542
+        }
+      ]
+    },
+    {
+      "id":4,
+      "seek":0,
+      "start":9.2,
+      "end":11.74,
+      "text":" until January of next year to sell the app",
+      "tokens":[
+        50834,
+        1826,
+        7061,
+        295,
+        958,
+        1064,
+        281,
+        3607,
+        264,
+        724,
+        50956
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" until",
+          "start":9.2,
+          "end":9.7,
+          "probability":0.9917438626289368
+        },
+        {
+          "word":" January",
+          "start":9.7,
+          "end":10.26,
+          "probability":0.996505618095398
+        },
+        {
+          "word":" of",
+          "start":10.26,
+          "end":10.46,
+          "probability":0.991543173789978
+        },
+        {
+          "word":" next",
+          "start":10.46,
+          "end":10.62,
+          "probability":0.9968089461326599
+        },
+        {
+          "word":" year",
+          "start":10.62,
+          "end":10.86,
+          "probability":0.9986945986747742
+        },
+        {
+          "word":" to",
+          "start":10.86,
+          "end":11.04,
+          "probability":0.8259967565536499
+        },
+        {
+          "word":" sell",
+          "start":11.04,
+          "end":11.32,
+          "probability":0.9905243515968323
+        },
+        {
+          "word":" the",
+          "start":11.32,
+          "end":11.54,
+          "probability":0.998612642288208
+        },
+        {
+          "word":" app",
+          "start":11.54,
+          "end":11.74,
+          "probability":0.9939690828323364
+        }
+      ]
+    },
+    {
+      "id":5,
+      "seek":0,
+      "start":11.74,
+      "end":13.54,
+      "text":" or it will be blocked from US app stores",
+      "tokens":[
+        50956,
+        420,
+        309,
+        486,
+        312,
+        15470,
+        490,
+        2546,
+        724,
+        9512,
+        51062
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" or",
+          "start":11.74,
+          "end":11.94,
+          "probability":0.4317469298839569
+        },
+        {
+          "word":" it",
+          "start":11.94,
+          "end":12.06,
+          "probability":0.9931541681289673
+        },
+        {
+          "word":" will",
+          "start":12.06,
+          "end":12.14,
+          "probability":0.9758559465408325
+        },
+        {
+          "word":" be",
+          "start":12.14,
+          "end":12.26,
+          "probability":0.9990142583847046
+        },
+        {
+          "word":" blocked",
+          "start":12.26,
+          "end":12.62,
+          "probability":0.9902865886688232
+        },
+        {
+          "word":" from",
+          "start":12.62,
+          "end":12.86,
+          "probability":0.9961231350898743
+        },
+        {
+          "word":" US",
+          "start":12.86,
+          "end":13.1,
+          "probability":0.9446157217025757
+        },
+        {
+          "word":" app",
+          "start":13.1,
+          "end":13.32,
+          "probability":0.7314414381980896
+        },
+        {
+          "word":" stores",
+          "start":13.32,
+          "end":13.54,
+          "probability":0.9660502076148987
+        }
+      ]
+    },
+    {
+      "id":6,
+      "seek":0,
+      "start":13.54,
+      "end":15.06,
+      "text":" and internet service providers.",
+      "tokens":[
+        51062,
+        293,
+        4705,
+        2643,
+        11330,
+        13,
+        51146
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" and",
+          "start":13.54,
+          "end":14.08,
+          "probability":0.9677011966705322
+        },
+        {
+          "word":" internet",
+          "start":14.08,
+          "end":14.32,
+          "probability":0.6730019450187683
+        },
+        {
+          "word":" service",
+          "start":14.32,
+          "end":14.6,
+          "probability":0.9855131506919861
+        },
+        {
+          "word":" providers.",
+          "start":14.6,
+          "end":15.06,
+          "probability":0.9979111552238464
+        }
+      ]
+    },
+    {
+      "id":7,
+      "seek":0,
+      "start":15.46,
+      "end":18.38,
+      "text":" Is this what it would take for iPhone users",
+      "tokens":[
+        51146,
+        1119,
+        341,
+        437,
+        309,
+        576,
+        747,
+        337,
+        7252,
+        5022,
+        51336
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" Is",
+          "start":15.46,
+          "end":15.84,
+          "probability":0.9770790934562683
+        },
+        {
+          "word":" this",
+          "start":15.84,
+          "end":16.24,
+          "probability":0.9973503351211548
+        },
+        {
+          "word":" what",
+          "start":16.24,
+          "end":16.76,
+          "probability":0.9837961196899414
+        },
+        {
+          "word":" it",
+          "start":16.76,
+          "end":16.88,
+          "probability":0.9960430860519409
+        },
+        {
+          "word":" would",
+          "start":16.88,
+          "end":17,
+          "probability":0.9961678385734558
+        },
+        {
+          "word":" take",
+          "start":17,
+          "end":17.24,
+          "probability":0.997769832611084
+        },
+        {
+          "word":" for",
+          "start":17.24,
+          "end":17.54,
+          "probability":0.9722312688827515
+        },
+        {
+          "word":" iPhone",
+          "start":17.54,
+          "end":17.82,
+          "probability":0.9802286028862
+        },
+        {
+          "word":" users",
+          "start":17.82,
+          "end":18.38,
+          "probability":0.999441921710968
+        }
+      ]
+    },
+    {
+      "id":8,
+      "seek":0,
+      "start":19.18,
+      "end":22.86,
+      "text":" to finally say, hey, we need to be able to side load?",
+      "tokens":[
+        51336,
+        281,
+        2721,
+        584,
+        11,
+        4177,
+        11,
+        321,
+        643,
+        281,
+        312,
+        1075,
+        281,
+        1252,
+        3677,
+        30,
+        51522
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" to",
+          "start":19.18,
+          "end":19.66,
+          "probability":0.9444212913513184
+        },
+        {
+          "word":" finally",
+          "start":19.66,
+          "end":20.14,
+          "probability":0.9872292280197144
+        },
+        {
+          "word":" say,",
+          "start":20.14,
+          "end":20.58,
+          "probability":0.9968697428703308
+        },
+        {
+          "word":" hey,",
+          "start":21.1,
+          "end":21.62,
+          "probability":0.503490149974823
+        },
+        {
+          "word":" we",
+          "start":21.76,
+          "end":21.8,
+          "probability":0.9968408346176147
+        },
+        {
+          "word":" need",
+          "start":21.8,
+          "end":21.94,
+          "probability":0.9989966750144958
+        },
+        {
+          "word":" to",
+          "start":21.94,
+          "end":22.04,
+          "probability":0.9983817338943481
+        },
+        {
+          "word":" be",
+          "start":22.04,
+          "end":22.14,
+          "probability":0.9988358616828918
+        },
+        {
+          "word":" able",
+          "start":22.14,
+          "end":22.3,
+          "probability":0.9983693957328796
+        },
+        {
+          "word":" to",
+          "start":22.3,
+          "end":22.4,
+          "probability":0.9991852641105652
+        },
+        {
+          "word":" side",
+          "start":22.4,
+          "end":22.64,
+          "probability":0.8284456729888916
+        },
+        {
+          "word":" load?",
+          "start":22.64,
+          "end":22.86,
+          "probability":0.6506131887435913
+        }
+      ]
+    },
+    {
+      "id":9,
+      "seek":0,
+      "start":23.84,
+      "end":27.62,
+      "text":" Is this what it would take to make the iPhone",
+      "tokens":[
+        51572,
+        1119,
+        341,
+        437,
+        309,
+        576,
+        747,
+        281,
+        652,
+        264,
+        7252,
+        51756
+      ],
+      "temperature":0,
+      "avg_logprob":-0.22603929959810698,
+      "compression_ratio":1.6412213740458015,
+      "no_speech_prob":0.022769685834646225,
+      "words":[
+        {
+          "word":" Is",
+          "start":23.84,
+          "end":24.32,
+          "probability":0.9790313839912415
+        },
+        {
+          "word":" this",
+          "start":24.32,
+          "end":24.74,
+          "probability":0.9978176355361938
+        },
+        {
+          "word":" what",
+          "start":24.74,
+          "end":25.06,
+          "probability":0.9933043122291565
+        },
+        {
+          "word":" it",
+          "start":25.06,
+          "end":25.18,
+          "probability":0.9970700740814209
+        },
+        {
+          "word":" would",
+          "start":25.18,
+          "end":25.3,
+          "probability":0.9977931976318359
+        },
+        {
+          "word":" take",
+          "start":25.3,
+          "end":25.66,
+          "probability":0.9957191348075867
+        },
+        {
+          "word":" to",
+          "start":25.66,
+          "end":26.48,
+          "probability":0.9825263023376465
+        },
+        {
+          "word":" make",
+          "start":26.48,
+          "end":26.76,
+          "probability":0.998869001865387
+        },
+        {
+          "word":" the",
+          "start":26.76,
+          "end":27.14,
+          "probability":0.9856364727020264
+        },
+        {
+          "word":" iPhone",
+          "start":27.14,
+          "end":27.62,
+          "probability":0.9962564706802368
+        }
+      ]
+    },
+    {
+      "id":10,
+      "seek":2762,
+      "start":27.62,
+      "end":30.64,
+      "text":" uncool with Gen Z's and Gen Alphas?",
+      "tokens":[
+        50384,
+        6219,
+        1092,
+        365,
+        3632,
+        1176,
+        311,
+        293,
+        3632,
+        967,
+        7485,
+        30,
+        50538
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" uncool",
+          "start":27.62,
+          "end":28.46,
+          "probability":0.6627212017774582
+        },
+        {
+          "word":" with",
+          "start":28.46,
+          "end":29.18,
+          "probability":0.8412351012229919
+        },
+        {
+          "word":" Gen",
+          "start":29.18,
+          "end":29.38,
+          "probability":0.6816718578338623
+        },
+        {
+          "word":" Z's",
+          "start":29.38,
+          "end":29.9,
+          "probability":0.7145769596099854
+        },
+        {
+          "word":" and",
+          "start":29.9,
+          "end":30.08,
+          "probability":0.9754446148872375
+        },
+        {
+          "word":" Gen",
+          "start":30.08,
+          "end":30.26,
+          "probability":0.8628471493721008
+        },
+        {
+          "word":" Alphas?",
+          "start":30.26,
+          "end":30.64,
+          "probability":0.6119647175073624
+        }
+      ]
+    },
+    {
+      "id":11,
+      "seek":2762,
+      "start":30.98,
+      "end":32.54,
+      "text":" If you couldn't put TikTok on it",
+      "tokens":[
+        50538,
+        759,
+        291,
+        2809,
+        380,
+        829,
+        20211,
+        322,
+        309,
+        50614
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" If",
+          "start":30.98,
+          "end":31.18,
+          "probability":0.929222047328949
+        },
+        {
+          "word":" you",
+          "start":31.18,
+          "end":31.32,
+          "probability":0.9974363446235657
+        },
+        {
+          "word":" couldn't",
+          "start":31.32,
+          "end":31.6,
+          "probability":0.9922245740890503
+        },
+        {
+          "word":" put",
+          "start":31.6,
+          "end":31.8,
+          "probability":0.9934210181236267
+        },
+        {
+          "word":" TikTok",
+          "start":31.8,
+          "end":32.02,
+          "probability":0.6726124882698059
+        },
+        {
+          "word":" on",
+          "start":32.02,
+          "end":32.42,
+          "probability":0.9970226883888245
+        },
+        {
+          "word":" it",
+          "start":32.42,
+          "end":32.54,
+          "probability":0.9908668994903564
+        }
+      ]
+    },
+    {
+      "id":12,
+      "seek":2762,
+      "start":32.54,
+      "end":34.24,
+      "text":" because there's no way to side load an app",
+      "tokens":[
+        50614,
+        570,
+        456,
+        311,
+        572,
+        636,
+        281,
+        1252,
+        3677,
+        364,
+        724,
+        50702
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" because",
+          "start":32.54,
+          "end":32.78,
+          "probability":0.7425881028175354
+        },
+        {
+          "word":" there's",
+          "start":32.78,
+          "end":33.08,
+          "probability":0.9904100894927979
+        },
+        {
+          "word":" no",
+          "start":33.08,
+          "end":33.24,
+          "probability":0.9960894584655762
+        },
+        {
+          "word":" way",
+          "start":33.24,
+          "end":33.4,
+          "probability":0.999382495880127
+        },
+        {
+          "word":" to",
+          "start":33.4,
+          "end":33.5,
+          "probability":0.9987383484840393
+        },
+        {
+          "word":" side",
+          "start":33.5,
+          "end":33.72,
+          "probability":0.8327120542526245
+        },
+        {
+          "word":" load",
+          "start":33.72,
+          "end":33.84,
+          "probability":0.5900620818138123
+        },
+        {
+          "word":" an",
+          "start":33.84,
+          "end":34,
+          "probability":0.9923092126846313
+        },
+        {
+          "word":" app",
+          "start":34,
+          "end":34.24,
+          "probability":0.9868914484977722
+        }
+      ]
+    },
+    {
+      "id":13,
+      "seek":2762,
+      "start":34.24,
+      "end":35.68,
+      "text":" and TikTok isn't in the app store.",
+      "tokens":[
+        50702,
+        293,
+        20211,
+        1943,
+        380,
+        294,
+        264,
+        724,
+        3531,
+        13,
+        50812
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" and",
+          "start":34.24,
+          "end":34.46,
+          "probability":0.8026369214057922
+        },
+        {
+          "word":" TikTok",
+          "start":34.46,
+          "end":34.72,
+          "probability":0.9212480187416077
+        },
+        {
+          "word":" isn't",
+          "start":34.72,
+          "end":35.06,
+          "probability":0.998171478509903
+        },
+        {
+          "word":" in",
+          "start":35.06,
+          "end":35.2,
+          "probability":0.9926829934120178
+        },
+        {
+          "word":" the",
+          "start":35.2,
+          "end":35.3,
+          "probability":0.9961109757423401
+        },
+        {
+          "word":" app",
+          "start":35.3,
+          "end":35.46,
+          "probability":0.4677284061908722
+        },
+        {
+          "word":" store.",
+          "start":35.46,
+          "end":35.68,
+          "probability":0.9756602644920349
+        }
+      ]
+    },
+    {
+      "id":14,
+      "seek":2762,
+      "start":36.42,
+      "end":38.54,
+      "text":" Anyway, this forced divestment was passed",
+      "tokens":[
+        50812,
+        5684,
+        11,
+        341,
+        7579,
+        3414,
+        377,
+        518,
+        390,
+        4678,
+        50922
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" Anyway,",
+          "start":36.42,
+          "end":36.74,
+          "probability":0.329284131526947
+        },
+        {
+          "word":" this",
+          "start":36.98,
+          "end":37.12,
+          "probability":0.9818504452705383
+        },
+        {
+          "word":" forced",
+          "start":37.12,
+          "end":37.38,
+          "probability":0.8697618842124939
+        },
+        {
+          "word":" divestment",
+          "start":37.38,
+          "end":37.98,
+          "probability":0.9096149404843649
+        },
+        {
+          "word":" was",
+          "start":37.98,
+          "end":38.12,
+          "probability":0.990889847278595
+        },
+        {
+          "word":" passed",
+          "start":38.12,
+          "end":38.54,
+          "probability":0.9528352618217468
+        }
+      ]
+    },
+    {
+      "id":15,
+      "seek":2762,
+      "start":38.54,
+      "end":40.76,
+      "text":" as part of a large foreign aid package targeted",
+      "tokens":[
+        50922,
+        382,
+        644,
+        295,
+        257,
+        2416,
+        5329,
+        9418,
+        7372,
+        15045,
+        51030
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" as",
+          "start":38.54,
+          "end":38.86,
+          "probability":0.9915804266929626
+        },
+        {
+          "word":" part",
+          "start":38.86,
+          "end":39.04,
+          "probability":0.9961473941802979
+        },
+        {
+          "word":" of",
+          "start":39.04,
+          "end":39.2,
+          "probability":0.9985894560813904
+        },
+        {
+          "word":" a",
+          "start":39.2,
+          "end":39.24,
+          "probability":0.9959360361099243
+        },
+        {
+          "word":" large",
+          "start":39.24,
+          "end":39.48,
+          "probability":0.9937826991081238
+        },
+        {
+          "word":" foreign",
+          "start":39.48,
+          "end":39.82,
+          "probability":0.9888535737991333
+        },
+        {
+          "word":" aid",
+          "start":39.82,
+          "end":40.02,
+          "probability":0.9982594847679138
+        },
+        {
+          "word":" package",
+          "start":40.02,
+          "end":40.42,
+          "probability":0.9979895353317261
+        },
+        {
+          "word":" targeted",
+          "start":40.42,
+          "end":40.76,
+          "probability":0.9810131192207336
+        }
+      ]
+    },
+    {
+      "id":16,
+      "seek":2762,
+      "start":40.76,
+      "end":42.34,
+      "text":" at Ukraine, Israel, and Taiwan.",
+      "tokens":[
+        51030,
+        412,
+        14081,
+        11,
+        5674,
+        11,
+        293,
+        12296,
+        13,
+        51140
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" at",
+          "start":40.76,
+          "end":40.96,
+          "probability":0.9973918199539185
+        },
+        {
+          "word":" Ukraine,",
+          "start":40.96,
+          "end":41.22,
+          "probability":0.9746233820915222
+        },
+        {
+          "word":" Israel,",
+          "start":41.36,
+          "end":41.6,
+          "probability":0.9984642267227173
+        },
+        {
+          "word":" and",
+          "start":41.76,
+          "end":41.88,
+          "probability":0.9964081645011902
+        },
+        {
+          "word":" Taiwan.",
+          "start":41.88,
+          "end":42.34,
+          "probability":0.995203971862793
+        }
+      ]
+    },
+    {
+      "id":17,
+      "seek":2762,
+      "start":43.14,
+      "end":45,
+      "text":" Bite Dance has promised to fight the legislation",
+      "tokens":[
+        51140,
+        48012,
+        16114,
+        575,
+        10768,
+        281,
+        2092,
+        264,
+        11329,
+        51240
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" Bite",
+          "start":43.14,
+          "end":43.24,
+          "probability":0.18940286338329315
+        },
+        {
+          "word":" Dance",
+          "start":43.24,
+          "end":43.42,
+          "probability":0.6124247312545776
+        },
+        {
+          "word":" has",
+          "start":43.42,
+          "end":43.58,
+          "probability":0.9893258810043335
+        },
+        {
+          "word":" promised",
+          "start":43.58,
+          "end":43.88,
+          "probability":0.9901245832443237
+        },
+        {
+          "word":" to",
+          "start":43.88,
+          "end":44.2,
+          "probability":0.9966226816177368
+        },
+        {
+          "word":" fight",
+          "start":44.2,
+          "end":44.4,
+          "probability":0.9859397411346436
+        },
+        {
+          "word":" the",
+          "start":44.4,
+          "end":44.54,
+          "probability":0.9925047159194946
+        },
+        {
+          "word":" legislation",
+          "start":44.54,
+          "end":45,
+          "probability":0.9862289428710938
+        }
+      ]
+    },
+    {
+      "id":18,
+      "seek":2762,
+      "start":45,
+      "end":47.46,
+      "text":" in court calling it an unconstitutional infringement",
+      "tokens":[
+        51240,
+        294,
+        4753,
+        5141,
+        309,
+        364,
+        517,
+        25279,
+        41859,
+        45205,
+        1712,
+        51360
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" in",
+          "start":45,
+          "end":45.14,
+          "probability":0.8861997127532959
+        },
+        {
+          "word":" court",
+          "start":45.14,
+          "end":45.28,
+          "probability":0.9855349063873291
+        },
+        {
+          "word":" calling",
+          "start":45.28,
+          "end":45.6,
+          "probability":0.6506248712539673
+        },
+        {
+          "word":" it",
+          "start":45.6,
+          "end":45.72,
+          "probability":0.9900434017181396
+        },
+        {
+          "word":" an",
+          "start":45.72,
+          "end":45.84,
+          "probability":0.9170448184013367
+        },
+        {
+          "word":" unconstitutional",
+          "start":45.84,
+          "end":46.84,
+          "probability":0.8984801769256592
+        },
+        {
+          "word":" infringement",
+          "start":46.84,
+          "end":47.46,
+          "probability":0.9913502037525177
+        }
+      ]
+    },
+    {
+      "id":19,
+      "seek":2762,
+      "start":47.46,
+      "end":49.02,
+      "text":" on American users free speech rights.",
+      "tokens":[
+        51360,
+        322,
+        2665,
+        5022,
+        1737,
+        6218,
+        4601,
+        13,
+        51460
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" on",
+          "start":47.46,
+          "end":47.58,
+          "probability":0.9949710369110107
+        },
+        {
+          "word":" American",
+          "start":47.58,
+          "end":47.84,
+          "probability":0.9889379739761353
+        },
+        {
+          "word":" users",
+          "start":47.84,
+          "end":48.18,
+          "probability":0.987496018409729
+        },
+        {
+          "word":" free",
+          "start":48.18,
+          "end":48.42,
+          "probability":0.808580756187439
+        },
+        {
+          "word":" speech",
+          "start":48.42,
+          "end":48.76,
+          "probability":0.9909998774528503
+        },
+        {
+          "word":" rights.",
+          "start":48.76,
+          "end":49.02,
+          "probability":0.9965859651565552
+        }
+      ]
+    },
+    {
+      "id":20,
+      "seek":2762,
+      "start":49.38,
+      "end":51.1,
+      "text":" Sources inside the company have told Reuters",
+      "tokens":[
+        51460,
+        318,
+        2749,
+        1854,
+        264,
+        2237,
+        362,
+        1907,
+        1300,
+        48396,
+        51546
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" Sources",
+          "start":49.38,
+          "end":49.72,
+          "probability":0.9015371799468994
+        },
+        {
+          "word":" inside",
+          "start":49.72,
+          "end":50.02,
+          "probability":0.9874240756034851
+        },
+        {
+          "word":" the",
+          "start":50.02,
+          "end":50.18,
+          "probability":0.9750548005104065
+        },
+        {
+          "word":" company",
+          "start":50.18,
+          "end":50.42,
+          "probability":0.9874500036239624
+        },
+        {
+          "word":" have",
+          "start":50.42,
+          "end":50.54,
+          "probability":0.9807658195495605
+        },
+        {
+          "word":" told",
+          "start":50.54,
+          "end":50.68,
+          "probability":0.9990450739860535
+        },
+        {
+          "word":" Reuters",
+          "start":50.68,
+          "end":51.1,
+          "probability":0.8114402294158936
+        }
+      ]
+    },
+    {
+      "id":21,
+      "seek":2762,
+      "start":51.1,
+      "end":53.7,
+      "text":" that Bite Dance leadership would rather TikTok shut down",
+      "tokens":[
+        51546,
+        300,
+        48012,
+        16114,
+        5848,
+        576,
+        2831,
+        20211,
+        5309,
+        760,
+        51696
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" that",
+          "start":51.1,
+          "end":51.34,
+          "probability":0.991341769695282
+        },
+        {
+          "word":" Bite",
+          "start":51.34,
+          "end":51.52,
+          "probability":0.6685829758644104
+        },
+        {
+          "word":" Dance",
+          "start":51.52,
+          "end":51.74,
+          "probability":0.9894290566444397
+        },
+        {
+          "word":" leadership",
+          "start":51.74,
+          "end":52.12,
+          "probability":0.9801214933395386
+        },
+        {
+          "word":" would",
+          "start":52.12,
+          "end":52.32,
+          "probability":0.9956657290458679
+        },
+        {
+          "word":" rather",
+          "start":52.32,
+          "end":52.54,
+          "probability":0.9925909042358398
+        },
+        {
+          "word":" TikTok",
+          "start":52.54,
+          "end":52.86,
+          "probability":0.9819715619087219
+        },
+        {
+          "word":" shut",
+          "start":52.86,
+          "end":53.2,
+          "probability":0.9619417190551758
+        },
+        {
+          "word":" down",
+          "start":53.2,
+          "end":53.7,
+          "probability":0.9919005632400513
+        }
+      ]
+    },
+    {
+      "id":22,
+      "seek":2762,
+      "start":54.260000000000005,
+      "end":54.84,
+      "text":" than sell it.",
+      "tokens":[
+        51696,
+        813,
+        3607,
+        309,
+        13,
+        51766
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" than",
+          "start":54.1,
+          "end":54.34,
+          "probability":0.9530524015426636
+        },
+        {
+          "word":" sell",
+          "start":54.34,
+          "end":54.66,
+          "probability":0.995800793170929
+        },
+        {
+          "word":" it.",
+          "start":54.66,
+          "end":54.84,
+          "probability":0.9986699819564819
+        }
+      ]
+    },
+    {
+      "id":23,
+      "seek":2762,
+      "start":55.56,
+      "end":57,
+      "text":" I honestly can kind of see that.",
+      "tokens":[
+        51766,
+        286,
+        6095,
+        393,
+        733,
+        295,
+        536,
+        300,
+        13,
+        51840
+      ],
+      "temperature":0,
+      "avg_logprob":-0.19551826323438812,
+      "compression_ratio":1.6334310850439884,
+      "no_speech_prob":0.07855542004108429,
+      "words":[
+        {
+          "word":" I",
+          "start":55.56,
+          "end":55.88,
+          "probability":0.9209175109863281
+        },
+        {
+          "word":" honestly",
+          "start":55.88,
+          "end":56.16,
+          "probability":0.8419370055198669
+        },
+        {
+          "word":" can",
+          "start":56.16,
+          "end":56.42,
+          "probability":0.940140426158905
+        },
+        {
+          "word":" kind",
+          "start":56.42,
+          "end":56.58,
+          "probability":0.7486332058906555
+        },
+        {
+          "word":" of",
+          "start":56.58,
+          "end":56.68,
+          "probability":0.9943804144859314
+        },
+        {
+          "word":" see",
+          "start":56.68,
+          "end":56.84,
+          "probability":0.9972578883171082
+        },
+        {
+          "word":" that.",
+          "start":56.84,
+          "end":57,
+          "probability":0.9650144577026367
+        }
+      ]
+    },
+    {
+      "id":24,
+      "seek":5700,
+      "start":57,
+      "end":57.92,
+      "text":" Like, this is my ball.",
+      "tokens":[
+        50372,
+        1743,
+        11,
+        341,
+        307,
+        452,
+        2594,
+        13,
+        50426
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" Like,",
+          "start":57,
+          "end":57.26,
+          "probability":0.2610585689544678
+        },
+        {
+          "word":" this",
+          "start":57.26,
+          "end":57.38,
+          "probability":0.8624815940856934
+        },
+        {
+          "word":" is",
+          "start":57.38,
+          "end":57.46,
+          "probability":0.9804000854492188
+        },
+        {
+          "word":" my",
+          "start":57.46,
+          "end":57.62,
+          "probability":0.9936493039131165
+        },
+        {
+          "word":" ball.",
+          "start":57.62,
+          "end":57.92,
+          "probability":0.9746794700622559
+        }
+      ]
+    },
+    {
+      "id":25,
+      "seek":5700,
+      "start":58.26,
+      "end":59.66,
+      "text":" I'm gonna play with it or I'm going home",
+      "tokens":[
+        50426,
+        286,
+        478,
+        799,
+        862,
+        365,
+        309,
+        420,
+        286,
+        478,
+        516,
+        1280,
+        50512
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" I'm",
+          "start":58.26,
+          "end":58.38,
+          "probability":0.9090408682823181
+        },
+        {
+          "word":" gonna",
+          "start":58.38,
+          "end":58.46,
+          "probability":0.5535934567451477
+        },
+        {
+          "word":" play",
+          "start":58.46,
+          "end":58.66,
+          "probability":0.9982226490974426
+        },
+        {
+          "word":" with",
+          "start":58.66,
+          "end":58.82,
+          "probability":0.997019350528717
+        },
+        {
+          "word":" it",
+          "start":58.82,
+          "end":58.94,
+          "probability":0.9983506202697754
+        },
+        {
+          "word":" or",
+          "start":58.94,
+          "end":59.12,
+          "probability":0.6960117816925049
+        },
+        {
+          "word":" I'm",
+          "start":59.12,
+          "end":59.26,
+          "probability":0.9948658347129822
+        },
+        {
+          "word":" going",
+          "start":59.26,
+          "end":59.36,
+          "probability":0.9708102345466614
+        },
+        {
+          "word":" home",
+          "start":59.36,
+          "end":59.66,
+          "probability":0.9994874000549316
+        }
+      ]
+    },
+    {
+      "id":26,
+      "seek":5700,
+      "start":59.66,
+      "end":60.54,
+      "text":" or take it with me.",
+      "tokens":[
+        50512,
+        420,
+        747,
+        309,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" or",
+          "start":59.66,
+          "end":60.02,
+          "probability":0.6785120964050293
+        },
+        {
+          "word":" take",
+          "start":60.02,
+          "end":60.16,
+          "probability":0.9953278303146362
+        },
+        {
+          "word":" it",
+          "start":60.16,
+          "end":60.28,
+          "probability":0.9964320659637451
+        },
+        {
+          "word":" with",
+          "start":60.28,
+          "end":60.38,
+          "probability":0.9992351531982422
+        },
+        {
+          "word":" me.",
+          "start":60.38,
+          "end":60.54,
+          "probability":0.9995792508125305
+        }
+      ]
+    },
+    {
+      "id":27,
+      "seek":5700,
+      "start":61.04,
+      "end":62.74,
+      "text":" A major reason lawmakers gave for the decision",
+      "tokens":[
+        50564,
+        316,
+        2563,
+        1778,
+        40988,
+        2729,
+        337,
+        264,
+        3537,
+        50654
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" A",
+          "start":61.04,
+          "end":61.1,
+          "probability":0.9376612305641174
+        },
+        {
+          "word":" major",
+          "start":61.1,
+          "end":61.36,
+          "probability":0.9983481168746948
+        },
+        {
+          "word":" reason",
+          "start":61.36,
+          "end":61.66,
+          "probability":0.9930404424667358
+        },
+        {
+          "word":" lawmakers",
+          "start":61.66,
+          "end":61.94,
+          "probability":0.3712231516838074
+        },
+        {
+          "word":" gave",
+          "start":61.94,
+          "end":62.22,
+          "probability":0.9305765628814697
+        },
+        {
+          "word":" for",
+          "start":62.22,
+          "end":62.36,
+          "probability":0.9406634569168091
+        },
+        {
+          "word":" the",
+          "start":62.36,
+          "end":62.46,
+          "probability":0.9939262270927429
+        },
+        {
+          "word":" decision",
+          "start":62.46,
+          "end":62.74,
+          "probability":0.9961020946502686
+        }
+      ]
+    },
+    {
+      "id":28,
+      "seek":5700,
+      "start":62.74,
+      "end":64.3,
+      "text":" to force Bite Dance to divest from TikTok",
+      "tokens":[
+        50654,
+        281,
+        3464,
+        48012,
+        16114,
+        281,
+        3414,
+        377,
+        490,
+        20211,
+        50738
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" to",
+          "start":62.74,
+          "end":62.9,
+          "probability":0.9936701059341431
+        },
+        {
+          "word":" force",
+          "start":62.9,
+          "end":63.1,
+          "probability":0.9811517596244812
+        },
+        {
+          "word":" Bite",
+          "start":63.1,
+          "end":63.3,
+          "probability":0.013380840420722961
+        },
+        {
+          "word":" Dance",
+          "start":63.3,
+          "end":63.48,
+          "probability":0.39458537101745605
+        },
+        {
+          "word":" to",
+          "start":63.48,
+          "end":63.7,
+          "probability":0.992717981338501
+        },
+        {
+          "word":" divest",
+          "start":63.7,
+          "end":63.94,
+          "probability":0.6999500095844269
+        },
+        {
+          "word":" from",
+          "start":63.94,
+          "end":64.12,
+          "probability":0.9871885180473328
+        },
+        {
+          "word":" TikTok",
+          "start":64.12,
+          "end":64.3,
+          "probability":0.5907580852508545
+        }
+      ]
+    },
+    {
+      "id":29,
+      "seek":5700,
+      "start":64.3,
+      "end":65.44,
+      "text":" is the lack of a barrier",
+      "tokens":[
+        50738,
+        307,
+        264,
+        5011,
+        295,
+        257,
+        13357,
+        50792
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" is",
+          "start":64.3,
+          "end":64.56,
+          "probability":0.9665056467056274
+        },
+        {
+          "word":" the",
+          "start":64.56,
+          "end":64.7,
+          "probability":0.9845684766769409
+        },
+        {
+          "word":" lack",
+          "start":64.7,
+          "end":64.86,
+          "probability":0.9987596273422241
+        },
+        {
+          "word":" of",
+          "start":64.86,
+          "end":65.04,
+          "probability":0.9984910488128662
+        },
+        {
+          "word":" a",
+          "start":65.04,
+          "end":65.12,
+          "probability":0.9886668920516968
+        },
+        {
+          "word":" barrier",
+          "start":65.12,
+          "end":65.44,
+          "probability":0.9969137907028198
+        }
+      ]
+    },
+    {
+      "id":30,
+      "seek":5700,
+      "start":65.44,
+      "end":67.68,
+      "text":" between the Chinese government and Chinese companies.",
+      "tokens":[
+        50792,
+        1296,
+        264,
+        4649,
+        2463,
+        293,
+        4649,
+        3431,
+        13,
+        50940
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" between",
+          "start":65.44,
+          "end":65.78,
+          "probability":0.9977954626083374
+        },
+        {
+          "word":" the",
+          "start":65.78,
+          "end":65.92,
+          "probability":0.9905734658241272
+        },
+        {
+          "word":" Chinese",
+          "start":65.92,
+          "end":66.12,
+          "probability":0.9982722997665405
+        },
+        {
+          "word":" government",
+          "start":66.12,
+          "end":66.54,
+          "probability":0.9875012636184692
+        },
+        {
+          "word":" and",
+          "start":66.54,
+          "end":66.9,
+          "probability":0.9935719966888428
+        },
+        {
+          "word":" Chinese",
+          "start":66.9,
+          "end":67.18,
+          "probability":0.9965824484825134
+        },
+        {
+          "word":" companies.",
+          "start":67.18,
+          "end":67.68,
+          "probability":0.9958654642105103
+        }
+      ]
+    },
+    {
+      "id":31,
+      "seek":5700,
+      "start":68.32,
+      "end":69.84,
+      "text":" National security and privacy experts",
+      "tokens":[
+        50940,
+        4862,
+        3825,
+        293,
+        11427,
+        8572,
+        51010
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" National",
+          "start":68.32,
+          "end":68.72,
+          "probability":0.7913590669631958
+        },
+        {
+          "word":" security",
+          "start":68.72,
+          "end":69.14,
+          "probability":0.6465531587600708
+        },
+        {
+          "word":" and",
+          "start":69.14,
+          "end":69.26,
+          "probability":0.9916097521781921
+        },
+        {
+          "word":" privacy",
+          "start":69.26,
+          "end":69.46,
+          "probability":0.9988163709640503
+        },
+        {
+          "word":" experts",
+          "start":69.46,
+          "end":69.84,
+          "probability":0.9884921312332153
+        }
+      ]
+    },
+    {
+      "id":32,
+      "seek":5700,
+      "start":69.84,
+      "end":70.78,
+      "text":" have expressed concern.",
+      "tokens":[
+        51010,
+        362,
+        12675,
+        3136,
+        13,
+        51074
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" have",
+          "start":69.84,
+          "end":70,
+          "probability":0.9922727346420288
+        },
+        {
+          "word":" expressed",
+          "start":70,
+          "end":70.24,
+          "probability":0.9992601275444031
+        },
+        {
+          "word":" concern.",
+          "start":70.24,
+          "end":70.78,
+          "probability":0.9982004165649414
+        }
+      ]
+    },
+    {
+      "id":33,
+      "seek":5700,
+      "start":71.16,
+      "end":73.94,
+      "text":" Both the app could be used to access sensitive user information",
+      "tokens":[
+        51074,
+        6767,
+        264,
+        724,
+        727,
+        312,
+        1143,
+        281,
+        2105,
+        9477,
+        4195,
+        1589,
+        51218
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" Both",
+          "start":71.16,
+          "end":71.42,
+          "probability":0.9920967817306519
+        },
+        {
+          "word":" the",
+          "start":71.42,
+          "end":71.64,
+          "probability":0.1307947039604187
+        },
+        {
+          "word":" app",
+          "start":71.64,
+          "end":71.88,
+          "probability":0.9694499969482422
+        },
+        {
+          "word":" could",
+          "start":71.88,
+          "end":72.02,
+          "probability":0.9838533401489258
+        },
+        {
+          "word":" be",
+          "start":72.02,
+          "end":72.14,
+          "probability":0.9987911581993103
+        },
+        {
+          "word":" used",
+          "start":72.14,
+          "end":72.34,
+          "probability":0.9975044131278992
+        },
+        {
+          "word":" to",
+          "start":72.34,
+          "end":72.54,
+          "probability":0.9984342455863953
+        },
+        {
+          "word":" access",
+          "start":72.54,
+          "end":72.78,
+          "probability":0.9890424609184265
+        },
+        {
+          "word":" sensitive",
+          "start":72.78,
+          "end":73.2,
+          "probability":0.9975705742835999
+        },
+        {
+          "word":" user",
+          "start":73.2,
+          "end":73.48,
+          "probability":0.9959264993667603
+        },
+        {
+          "word":" information",
+          "start":73.48,
+          "end":73.94,
+          "probability":0.9989545345306396
+        }
+      ]
+    },
+    {
+      "id":34,
+      "seek":5700,
+      "start":73.94,
+      "end":76.06,
+      "text":" and that its algorithm could be used to manipulate",
+      "tokens":[
+        51218,
+        293,
+        300,
+        1080,
+        9284,
+        727,
+        312,
+        1143,
+        281,
+        20459,
+        51322
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" and",
+          "start":73.94,
+          "end":74.26,
+          "probability":0.8367964029312134
+        },
+        {
+          "word":" that",
+          "start":74.26,
+          "end":74.38,
+          "probability":0.9600789546966553
+        },
+        {
+          "word":" its",
+          "start":74.38,
+          "end":74.54,
+          "probability":0.3922582268714905
+        },
+        {
+          "word":" algorithm",
+          "start":74.54,
+          "end":74.8,
+          "probability":0.9965534210205078
+        },
+        {
+          "word":" could",
+          "start":74.8,
+          "end":75.08,
+          "probability":0.9740946292877197
+        },
+        {
+          "word":" be",
+          "start":75.08,
+          "end":75.2,
+          "probability":0.9942487478256226
+        },
+        {
+          "word":" used",
+          "start":75.2,
+          "end":75.42,
+          "probability":0.9977306723594666
+        },
+        {
+          "word":" to",
+          "start":75.42,
+          "end":75.64,
+          "probability":0.9989030361175537
+        },
+        {
+          "word":" manipulate",
+          "start":75.64,
+          "end":76.06,
+          "probability":0.9979645013809204
+        }
+      ]
+    },
+    {
+      "id":35,
+      "seek":5700,
+      "start":76.06,
+      "end":77.54,
+      "text":" public opinion about the CCP.",
+      "tokens":[
+        51322,
+        1908,
+        4800,
+        466,
+        264,
+        27876,
+        13,
+        51456
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" public",
+          "start":76.06,
+          "end":76.38,
+          "probability":0.9969654679298401
+        },
+        {
+          "word":" opinion",
+          "start":76.38,
+          "end":76.78,
+          "probability":0.9976884126663208
+        },
+        {
+          "word":" about",
+          "start":76.78,
+          "end":77.04,
+          "probability":0.9964371919631958
+        },
+        {
+          "word":" the",
+          "start":77.04,
+          "end":77.18,
+          "probability":0.9969452023506165
+        },
+        {
+          "word":" CCP.",
+          "start":77.18,
+          "end":77.54,
+          "probability":0.9765236973762512
+        }
+      ]
+    },
+    {
+      "id":36,
+      "seek":5700,
+      "start":78.6,
+      "end":80.22,
+      "text":" I guess what I'm asking is,",
+      "tokens":[
+        51456,
+        286,
+        2041,
+        437,
+        286,
+        478,
+        3365,
+        307,
+        11,
+        51574
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" I",
+          "start":78.6,
+          "end":79.02,
+          "probability":0.9948114156723022
+        },
+        {
+          "word":" guess",
+          "start":79.02,
+          "end":79.14,
+          "probability":0.9972232580184937
+        },
+        {
+          "word":" what",
+          "start":79.14,
+          "end":79.34,
+          "probability":0.9916061162948608
+        },
+        {
+          "word":" I'm",
+          "start":79.34,
+          "end":79.5,
+          "probability":0.9955786466598511
+        },
+        {
+          "word":" asking",
+          "start":79.5,
+          "end":79.78,
+          "probability":0.9984777569770813
+        },
+        {
+          "word":" is,",
+          "start":79.78,
+          "end":80.22,
+          "probability":0.9941970109939575
+        }
+      ]
+    },
+    {
+      "id":37,
+      "seek":5700,
+      "start":80.97999999999999,
+      "end":85.96,
+      "text":" why aren't you forcing Facebook to sell to who even?",
+      "tokens":[
+        51574,
+        983,
+        3212,
+        380,
+        291,
+        19030,
+        4384,
+        281,
+        3607,
+        281,
+        567,
+        754,
+        30,
+        51816
+      ],
+      "temperature":0,
+      "avg_logprob":-0.18135129383632115,
+      "compression_ratio":1.6186186186186187,
+      "no_speech_prob":0.004962314385920763,
+      "words":[
+        {
+          "word":" why",
+          "start":80.97999999999999,
+          "end":81.46,
+          "probability":0.8681715130805969
+        },
+        {
+          "word":" aren't",
+          "start":81.46,
+          "end":81.62,
+          "probability":0.9969968795776367
+        },
+        {
+          "word":" you",
+          "start":81.62,
+          "end":81.72,
+          "probability":0.9988873600959778
+        },
+        {
+          "word":" forcing",
+          "start":81.72,
+          "end":82.18,
+          "probability":0.9929879307746887
+        },
+        {
+          "word":" Facebook",
+          "start":82.18,
+          "end":83.16,
+          "probability":0.9895757436752319
+        },
+        {
+          "word":" to",
+          "start":83.16,
+          "end":83.78,
+          "probability":0.9930248260498047
+        },
+        {
+          "word":" sell",
+          "start":83.78,
+          "end":84.1,
+          "probability":0.9716604351997375
+        },
+        {
+          "word":" to",
+          "start":84.1,
+          "end":84.76,
+          "probability":0.6645056009292603
+        },
+        {
+          "word":" who",
+          "start":84.76,
+          "end":85.68,
+          "probability":0.5673264861106873
+        },
+        {
+          "word":" even?",
+          "start":85.68,
+          "end":85.96,
+          "probability":0.9280824661254883
+        }
+      ]
+    },
+    {
+      "id":38,
+      "seek":8596,
+      "start":85.96,
+      "end":86.56,
+      "text":" I don't know.",
+      "tokens":[
+        50372,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50418
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" I",
+          "start":85.96,
+          "end":86.26,
+          "probability":0.8592930436134338
+        },
+        {
+          "word":" don't",
+          "start":86.26,
+          "end":86.34,
+          "probability":0.9932151734828949
+        },
+        {
+          "word":" know.",
+          "start":86.34,
+          "end":86.56,
+          "probability":0.9988090991973877
+        }
+      ]
+    },
+    {
+      "id":39,
+      "seek":8596,
+      "start":86.84,
+      "end":89.32,
+      "text":" Or Twitter to sell to who even.",
+      "tokens":[
+        50418,
+        1610,
+        5794,
+        281,
+        3607,
+        281,
+        567,
+        754,
+        13,
+        50544
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" Or",
+          "start":86.84,
+          "end":87.3,
+          "probability":0.9582642912864685
+        },
+        {
+          "word":" Twitter",
+          "start":87.3,
+          "end":87.86,
+          "probability":0.9071385860443115
+        },
+        {
+          "word":" to",
+          "start":87.86,
+          "end":88.26,
+          "probability":0.9738272428512573
+        },
+        {
+          "word":" sell",
+          "start":88.26,
+          "end":88.54,
+          "probability":0.9274078607559204
+        },
+        {
+          "word":" to",
+          "start":88.54,
+          "end":88.96,
+          "probability":0.9434045553207397
+        },
+        {
+          "word":" who",
+          "start":88.96,
+          "end":89.08,
+          "probability":0.7243250608444214
+        },
+        {
+          "word":" even.",
+          "start":89.08,
+          "end":89.32,
+          "probability":0.9702765345573425
+        }
+      ]
+    },
+    {
+      "id":40,
+      "seek":8596,
+      "start":89.6,
+      "end":90.02,
+      "text":" I don't know.",
+      "tokens":[
+        50544,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50586
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" I",
+          "start":89.6,
+          "end":89.68,
+          "probability":0.995333731174469
+        },
+        {
+          "word":" don't",
+          "start":89.68,
+          "end":89.86,
+          "probability":0.9992612898349762
+        },
+        {
+          "word":" know.",
+          "start":89.86,
+          "end":90.02,
+          "probability":0.9984121322631836
+        }
+      ]
+    },
+    {
+      "id":41,
+      "seek":8596,
+      "start":90.36,
+      "end":92.54,
+      "text":" Like if basically your concern in a nutshell",
+      "tokens":[
+        50586,
+        1743,
+        498,
+        1936,
+        428,
+        3136,
+        294,
+        257,
+        37711,
+        50720
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" Like",
+          "start":90.36,
+          "end":90.46,
+          "probability":0.8472015261650085
+        },
+        {
+          "word":" if",
+          "start":90.46,
+          "end":90.58,
+          "probability":0.8745858669281006
+        },
+        {
+          "word":" basically",
+          "start":90.58,
+          "end":91.12,
+          "probability":0.9722248911857605
+        },
+        {
+          "word":" your",
+          "start":91.12,
+          "end":91.34,
+          "probability":0.5320296287536621
+        },
+        {
+          "word":" concern",
+          "start":91.34,
+          "end":91.76,
+          "probability":0.9976553916931152
+        },
+        {
+          "word":" in",
+          "start":91.76,
+          "end":92.14,
+          "probability":0.9898754954338074
+        },
+        {
+          "word":" a",
+          "start":92.14,
+          "end":92.22,
+          "probability":0.9811432361602783
+        },
+        {
+          "word":" nutshell",
+          "start":92.22,
+          "end":92.54,
+          "probability":0.9733728766441345
+        }
+      ]
+    },
+    {
+      "id":42,
+      "seek":8596,
+      "start":93.08,
+      "end":95.44,
+      "text":" is that there's an entity controlling this app",
+      "tokens":[
+        50720,
+        307,
+        300,
+        456,
+        311,
+        364,
+        13977,
+        14905,
+        341,
+        724,
+        50862
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" is",
+          "start":92.97,
+          "end":93.24,
+          "probability":0.8678111433982849
+        },
+        {
+          "word":" that",
+          "start":93.24,
+          "end":93.46,
+          "probability":0.9948740601539612
+        },
+        {
+          "word":" there's",
+          "start":93.46,
+          "end":93.74,
+          "probability":0.9886559545993805
+        },
+        {
+          "word":" an",
+          "start":93.74,
+          "end":93.86,
+          "probability":0.9964005947113037
+        },
+        {
+          "word":" entity",
+          "start":93.86,
+          "end":94.22,
+          "probability":0.9860621094703674
+        },
+        {
+          "word":" controlling",
+          "start":94.22,
+          "end":94.86,
+          "probability":0.9965409636497498
+        },
+        {
+          "word":" this",
+          "start":94.86,
+          "end":95.16,
+          "probability":0.9978169202804565
+        },
+        {
+          "word":" app",
+          "start":95.16,
+          "end":95.44,
+          "probability":0.9937425255775452
+        }
+      ]
+    },
+    {
+      "id":43,
+      "seek":8596,
+      "start":95.44,
+      "end":97.22,
+      "text":" that you can't control",
+      "tokens":[
+        50862,
+        300,
+        291,
+        393,
+        380,
+        1969,
+        50960
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" that",
+          "start":95.44,
+          "end":96.06,
+          "probability":0.9402785897254944
+        },
+        {
+          "word":" you",
+          "start":96.06,
+          "end":96.28,
+          "probability":0.9963164329528809
+        },
+        {
+          "word":" can't",
+          "start":96.28,
+          "end":96.72,
+          "probability":0.9983826577663422
+        },
+        {
+          "word":" control",
+          "start":96.72,
+          "end":97.22,
+          "probability":0.9959646463394165
+        }
+      ]
+    },
+    {
+      "id":44,
+      "seek":8596,
+      "start":97.88,
+      "end":100.5,
+      "text":" and that could tune its algorithm for its own purposes.",
+      "tokens":[
+        50960,
+        293,
+        300,
+        727,
+        10864,
+        1080,
+        9284,
+        337,
+        1080,
+        1065,
+        9932,
+        13,
+        51118
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" and",
+          "start":97.77000000000001,
+          "end":98.04,
+          "probability":0.613554060459137
+        },
+        {
+          "word":" that",
+          "start":98.04,
+          "end":98.26,
+          "probability":0.9915862083435059
+        },
+        {
+          "word":" could",
+          "start":98.26,
+          "end":98.52,
+          "probability":0.995345413684845
+        },
+        {
+          "word":" tune",
+          "start":98.52,
+          "end":98.84,
+          "probability":0.8214543461799622
+        },
+        {
+          "word":" its",
+          "start":98.84,
+          "end":99.04,
+          "probability":0.9607601165771484
+        },
+        {
+          "word":" algorithm",
+          "start":99.04,
+          "end":99.48,
+          "probability":0.9933319687843323
+        },
+        {
+          "word":" for",
+          "start":99.48,
+          "end":99.84,
+          "probability":0.9970598816871643
+        },
+        {
+          "word":" its",
+          "start":99.84,
+          "end":99.98,
+          "probability":0.9622800350189209
+        },
+        {
+          "word":" own",
+          "start":99.98,
+          "end":100.1,
+          "probability":0.9995518326759338
+        },
+        {
+          "word":" purposes.",
+          "start":100.1,
+          "end":100.5,
+          "probability":0.9985070824623108
+        }
+      ]
+    },
+    {
+      "id":45,
+      "seek":8596,
+      "start":102.14000000000001,
+      "end":103.12,
+      "text":" I don't know, man.",
+      "tokens":[
+        51194,
+        286,
+        500,
+        380,
+        458,
+        11,
+        587,
+        13,
+        51236
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" I",
+          "start":102.14000000000001,
+          "end":102.68,
+          "probability":0.9864752888679504
+        },
+        {
+          "word":" don't",
+          "start":102.68,
+          "end":102.8,
+          "probability":0.9326514005661011
+        },
+        {
+          "word":" know,",
+          "start":102.8,
+          "end":102.92,
+          "probability":0.9924363493919373
+        },
+        {
+          "word":" man.",
+          "start":103.02,
+          "end":103.12,
+          "probability":0.9833860993385315
+        }
+      ]
+    },
+    {
+      "id":46,
+      "seek":8596,
+      "start":103.26,
+      "end":105.32,
+      "text":" I'm not exactly pro-China.",
+      "tokens":[
+        51236,
+        286,
+        478,
+        406,
+        2293,
+        447,
+        12,
+        6546,
+        1426,
+        13,
+        51304
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" I'm",
+          "start":103.26,
+          "end":103.46,
+          "probability":0.4996563717722893
+        },
+        {
+          "word":" not",
+          "start":103.46,
+          "end":103.6,
+          "probability":0.9861038327217102
+        },
+        {
+          "word":" exactly",
+          "start":103.6,
+          "end":104.58,
+          "probability":0.8040193319320679
+        },
+        {
+          "word":" pro",
+          "start":104.58,
+          "end":105.04,
+          "probability":0.20093263685703278
+        },
+        {
+          "word":"-China.",
+          "start":105.04,
+          "end":105.32,
+          "probability":0.5873607695102692
+        }
+      ]
+    },
+    {
+      "id":47,
+      "seek":8596,
+      "start":106.04,
+      "end":106.06,
+      "text":" I think that's...",
+      "tokens":[
+        51304,
+        286,
+        519,
+        300,
+        311,
+        485,
+        51362
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" I",
+          "start":106.04,
+          "end":106.04,
+          "probability":0.5519687533378601
+        },
+        {
+          "word":" think",
+          "start":106.04,
+          "end":106.04,
+          "probability":0.989035427570343
+        },
+        {
+          "word":" that's...",
+          "start":106.04,
+          "end":106.06,
+          "probability":0.4569290479024251
+        }
+      ]
+    },
+    {
+      "id":48,
+      "seek":8596,
+      "start":106.06,
+      "end":108.3,
+      "text":" That entity is specifically another country.",
+      "tokens":[
+        51362,
+        663,
+        13977,
+        307,
+        4682,
+        1071,
+        1941,
+        13,
+        51528
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" That",
+          "start":106.06,
+          "end":106.06,
+          "probability":0.5420075058937073
+        },
+        {
+          "word":" entity",
+          "start":106.06,
+          "end":106.88,
+          "probability":0.6984638571739197
+        },
+        {
+          "word":" is",
+          "start":106.88,
+          "end":107.02,
+          "probability":0.9919795989990234
+        },
+        {
+          "word":" specifically",
+          "start":107.02,
+          "end":107.5,
+          "probability":0.9777559041976929
+        },
+        {
+          "word":" another",
+          "start":107.5,
+          "end":107.76,
+          "probability":0.944961667060852
+        },
+        {
+          "word":" country.",
+          "start":107.76,
+          "end":108.3,
+          "probability":0.9991499185562134
+        }
+      ]
+    },
+    {
+      "id":49,
+      "seek":8596,
+      "start":109.06,
+      "end":110.22,
+      "text":" Because I see where you're going",
+      "tokens":[
+        51528,
+        1436,
+        286,
+        536,
+        689,
+        291,
+        434,
+        516,
+        51584
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" Because",
+          "start":109.06,
+          "end":109.34,
+          "probability":0.6387507915496826
+        },
+        {
+          "word":" I",
+          "start":109.34,
+          "end":109.46,
+          "probability":0.9271576404571533
+        },
+        {
+          "word":" see",
+          "start":109.46,
+          "end":109.74,
+          "probability":0.9795829057693481
+        },
+        {
+          "word":" where",
+          "start":109.74,
+          "end":109.86,
+          "probability":0.9838343858718872
+        },
+        {
+          "word":" you're",
+          "start":109.86,
+          "end":109.98,
+          "probability":0.985891193151474
+        },
+        {
+          "word":" going",
+          "start":109.98,
+          "end":110.22,
+          "probability":0.9742318987846375
+        }
+      ]
+    },
+    {
+      "id":50,
+      "seek":8596,
+      "start":110.22,
+      "end":111.66,
+      "text":" and I do think you're entirely right.",
+      "tokens":[
+        51584,
+        293,
+        286,
+        360,
+        519,
+        291,
+        434,
+        7696,
+        558,
+        13,
+        51660
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" and",
+          "start":110.22,
+          "end":110.38,
+          "probability":0.6787083745002747
+        },
+        {
+          "word":" I",
+          "start":110.38,
+          "end":110.48,
+          "probability":0.9558306932449341
+        },
+        {
+          "word":" do",
+          "start":110.48,
+          "end":110.62,
+          "probability":0.9656797647476196
+        },
+        {
+          "word":" think",
+          "start":110.62,
+          "end":110.84,
+          "probability":0.9239797592163086
+        },
+        {
+          "word":" you're",
+          "start":110.84,
+          "end":111,
+          "probability":0.9909437000751495
+        },
+        {
+          "word":" entirely",
+          "start":111,
+          "end":111.44,
+          "probability":0.999402642250061
+        },
+        {
+          "word":" right.",
+          "start":111.44,
+          "end":111.66,
+          "probability":0.9990035891532898
+        }
+      ]
+    },
+    {
+      "id":51,
+      "seek":8596,
+      "start":112,
+      "end":114.1,
+      "text":" But I think they're like,",
+      "tokens":[
+        51660,
+        583,
+        286,
+        519,
+        436,
+        434,
+        411,
+        11,
+        51776
+      ],
+      "temperature":0,
+      "avg_logprob":-0.24061916813705908,
+      "compression_ratio":1.6833976833976834,
+      "no_speech_prob":0.008182126097381115,
+      "words":[
+        {
+          "word":" But",
+          "start":112,
+          "end":112.1,
+          "probability":0.9579535722732544
+        },
+        {
+          "word":" I",
+          "start":112.1,
+          "end":113.3,
+          "probability":0.8750483393669128
+        },
+        {
+          "word":" think",
+          "start":113.3,
+          "end":113.66,
+          "probability":0.9841665029525757
+        },
+        {
+          "word":" they're",
+          "start":113.66,
+          "end":113.9,
+          "probability":0.9825568199157715
+        },
+        {
+          "word":" like,",
+          "start":113.9,
+          "end":114.1,
+          "probability":0.9843743443489075
+        }
+      ]
+    },
+    {
+      "id":52,
+      "seek":11410,
+      "start":114.1,
+      "end":117.56,
+      "text":" ooh, this is, what is it?",
+      "tokens":[
+        50370,
+        17024,
+        11,
+        341,
+        307,
+        11,
+        437,
+        307,
+        309,
+        30,
+        50546
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" ooh,",
+          "start":114.1,
+          "end":114.42,
+          "probability":0.0077887168154120445
+        },
+        {
+          "word":" this",
+          "start":114.94,
+          "end":115.08,
+          "probability":0.8530969619750977
+        },
+        {
+          "word":" is,",
+          "start":115.08,
+          "end":115.64,
+          "probability":0.9936100840568542
+        },
+        {
+          "word":" what",
+          "start":116.18,
+          "end":117.34,
+          "probability":0.6391716599464417
+        },
+        {
+          "word":" is",
+          "start":117.34,
+          "end":117.44,
+          "probability":0.9875580072402954
+        },
+        {
+          "word":" it?",
+          "start":117.44,
+          "end":117.56,
+          "probability":0.9926236867904663
+        }
+      ]
+    },
+    {
+      "id":53,
+      "seek":11410,
+      "start":117.94,
+      "end":120.16,
+      "text":" Foreign, foreign national interference or whatever?",
+      "tokens":[
+        50546,
+        20430,
+        11,
+        5329,
+        4048,
+        24497,
+        420,
+        2035,
+        30,
+        50716
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Foreign,",
+          "start":117.94,
+          "end":118.26,
+          "probability":0.35719606280326843
+        },
+        {
+          "word":" foreign",
+          "start":118.52,
+          "end":118.76,
+          "probability":0.9822073578834534
+        },
+        {
+          "word":" national",
+          "start":118.76,
+          "end":119.2,
+          "probability":0.9293541312217712
+        },
+        {
+          "word":" interference",
+          "start":119.2,
+          "end":119.66,
+          "probability":0.99741530418396
+        },
+        {
+          "word":" or",
+          "start":119.66,
+          "end":119.9,
+          "probability":0.8390527963638306
+        },
+        {
+          "word":" whatever?",
+          "start":119.9,
+          "end":120.16,
+          "probability":0.9946109056472778
+        }
+      ]
+    },
+    {
+      "id":54,
+      "seek":11410,
+      "start":120.72,
+      "end":121.98,
+      "text":" I don't know what the term for it,",
+      "tokens":[
+        50716,
+        286,
+        500,
+        380,
+        458,
+        437,
+        264,
+        1433,
+        337,
+        309,
+        11,
+        50774
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" I",
+          "start":120.72,
+          "end":121.2,
+          "probability":0.9944185018539429
+        },
+        {
+          "word":" don't",
+          "start":121.2,
+          "end":121.26,
+          "probability":0.9973738789558411
+        },
+        {
+          "word":" know",
+          "start":121.26,
+          "end":121.36,
+          "probability":0.7089565992355347
+        },
+        {
+          "word":" what",
+          "start":121.36,
+          "end":121.42,
+          "probability":0.517362117767334
+        },
+        {
+          "word":" the",
+          "start":121.42,
+          "end":121.5,
+          "probability":0.9423183798789978
+        },
+        {
+          "word":" term",
+          "start":121.5,
+          "end":121.64,
+          "probability":0.9974026083946228
+        },
+        {
+          "word":" for",
+          "start":121.64,
+          "end":121.84,
+          "probability":0.9896507263183594
+        },
+        {
+          "word":" it,",
+          "start":121.84,
+          "end":121.98,
+          "probability":0.9569371938705444
+        }
+      ]
+    },
+    {
+      "id":55,
+      "seek":11410,
+      "start":122.18,
+      "end":124.66,
+      "text":" but I think it's something that they're fighting against.",
+      "tokens":[
+        50774,
+        457,
+        286,
+        519,
+        309,
+        311,
+        746,
+        300,
+        436,
+        434,
+        5237,
+        1970,
+        13,
+        50914
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" but",
+          "start":122.18,
+          "end":122.42,
+          "probability":0.9976462721824646
+        },
+        {
+          "word":" I",
+          "start":122.42,
+          "end":123.46,
+          "probability":0.9448187351226807
+        },
+        {
+          "word":" think",
+          "start":123.46,
+          "end":123.56,
+          "probability":0.9996522665023804
+        },
+        {
+          "word":" it's",
+          "start":123.56,
+          "end":123.76,
+          "probability":0.9866389334201813
+        },
+        {
+          "word":" something",
+          "start":123.76,
+          "end":123.92,
+          "probability":0.9957139492034912
+        },
+        {
+          "word":" that",
+          "start":123.92,
+          "end":124.1,
+          "probability":0.9123106598854065
+        },
+        {
+          "word":" they're",
+          "start":124.1,
+          "end":124.2,
+          "probability":0.9939916431903839
+        },
+        {
+          "word":" fighting",
+          "start":124.2,
+          "end":124.4,
+          "probability":0.9985913634300232
+        },
+        {
+          "word":" against.",
+          "start":124.4,
+          "end":124.66,
+          "probability":0.9997450709342957
+        }
+      ]
+    },
+    {
+      "id":56,
+      "seek":11410,
+      "start":127.56,
+      "end":129.02,
+      "text":" Who do you wanna see by it?",
+      "tokens":[
+        51054,
+        2102,
+        360,
+        291,
+        1948,
+        536,
+        538,
+        309,
+        30,
+        51112
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Who",
+          "start":127.56,
+          "end":128.04,
+          "probability":0.06275030225515366
+        },
+        {
+          "word":" do",
+          "start":128.04,
+          "end":128.14,
+          "probability":0.9962537288665771
+        },
+        {
+          "word":" you",
+          "start":128.14,
+          "end":128.22,
+          "probability":0.9982839226722717
+        },
+        {
+          "word":" wanna",
+          "start":128.22,
+          "end":128.36,
+          "probability":0.5838742852210999
+        },
+        {
+          "word":" see",
+          "start":128.36,
+          "end":128.64,
+          "probability":0.9943475127220154
+        },
+        {
+          "word":" by",
+          "start":128.64,
+          "end":128.82,
+          "probability":0.8823897242546082
+        },
+        {
+          "word":" it?",
+          "start":128.82,
+          "end":129.02,
+          "probability":0.9628098607063293
+        }
+      ]
+    },
+    {
+      "id":57,
+      "seek":11410,
+      "start":129.12,
+      "end":130.14,
+      "text":" Is our discussion question.",
+      "tokens":[
+        51112,
+        1119,
+        527,
+        5017,
+        1168,
+        13,
+        51188
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Is",
+          "start":129.12,
+          "end":129.2,
+          "probability":0.9277388453483582
+        },
+        {
+          "word":" our",
+          "start":129.2,
+          "end":129.28,
+          "probability":0.9840030074119568
+        },
+        {
+          "word":" discussion",
+          "start":129.28,
+          "end":129.56,
+          "probability":0.9972144961357117
+        },
+        {
+          "word":" question.",
+          "start":129.56,
+          "end":130.14,
+          "probability":0.8928573131561279
+        }
+      ]
+    },
+    {
+      "id":58,
+      "seek":11410,
+      "start":131.92,
+      "end":134.02,
+      "text":" And I really, can I say the brackets?",
+      "tokens":[
+        51262,
+        400,
+        286,
+        534,
+        11,
+        393,
+        286,
+        584,
+        264,
+        26179,
+        30,
+        51384
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" And",
+          "start":131.92,
+          "end":132.18,
+          "probability":0.09945318847894669
+        },
+        {
+          "word":" I",
+          "start":132.18,
+          "end":132.82,
+          "probability":0.9159995913505554
+        },
+        {
+          "word":" really,",
+          "start":132.82,
+          "end":133.06,
+          "probability":0.9725738763809204
+        },
+        {
+          "word":" can",
+          "start":133.22,
+          "end":133.3,
+          "probability":0.9833145141601562
+        },
+        {
+          "word":" I",
+          "start":133.3,
+          "end":133.4,
+          "probability":0.9977067708969116
+        },
+        {
+          "word":" say",
+          "start":133.4,
+          "end":133.56,
+          "probability":0.9960434436798096
+        },
+        {
+          "word":" the",
+          "start":133.56,
+          "end":133.7,
+          "probability":0.9469445943832397
+        },
+        {
+          "word":" brackets?",
+          "start":133.7,
+          "end":134.02,
+          "probability":0.9808983206748962
+        }
+      ]
+    },
+    {
+      "id":59,
+      "seek":11410,
+      "start":134.52,
+      "end":135.3,
+      "text":" Can I say the brackets?",
+      "tokens":[
+        51384,
+        1664,
+        286,
+        584,
+        264,
+        26179,
+        30,
+        51484
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Can",
+          "start":134.52,
+          "end":134.6,
+          "probability":0.6341052651405334
+        },
+        {
+          "word":" I",
+          "start":134.6,
+          "end":134.7,
+          "probability":0.9982160925865173
+        },
+        {
+          "word":" say",
+          "start":134.7,
+          "end":134.84,
+          "probability":0.9985902905464172
+        },
+        {
+          "word":" the",
+          "start":134.84,
+          "end":134.96,
+          "probability":0.993229866027832
+        },
+        {
+          "word":" brackets?",
+          "start":134.96,
+          "end":135.3,
+          "probability":0.9975789189338684
+        }
+      ]
+    },
+    {
+      "id":60,
+      "seek":11410,
+      "start":136.26000000000002,
+      "end":136.74,
+      "text":" Sure.",
+      "tokens":[
+        51484,
+        4894,
+        13,
+        51526
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Sure.",
+          "start":136.26000000000002,
+          "end":136.74,
+          "probability":0.7581161260604858
+        }
+      ]
+    },
+    {
+      "id":61,
+      "seek":11410,
+      "start":137.16,
+      "end":139.1,
+      "text":" In brackets it says, don't say Elon.",
+      "tokens":[
+        51526,
+        682,
+        26179,
+        309,
+        1619,
+        11,
+        500,
+        380,
+        584,
+        28498,
+        13,
+        51630
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" In",
+          "start":137.16,
+          "end":137.5,
+          "probability":0.7775280475616455
+        },
+        {
+          "word":" brackets",
+          "start":137.5,
+          "end":137.88,
+          "probability":0.9980120658874512
+        },
+        {
+          "word":" it",
+          "start":137.88,
+          "end":138.08,
+          "probability":0.5076034069061279
+        },
+        {
+          "word":" says,",
+          "start":138.08,
+          "end":138.24,
+          "probability":0.9979610443115234
+        },
+        {
+          "word":" don't",
+          "start":138.24,
+          "end":138.56,
+          "probability":0.8543817400932312
+        },
+        {
+          "word":" say",
+          "start":138.56,
+          "end":138.78,
+          "probability":0.9979696869850159
+        },
+        {
+          "word":" Elon.",
+          "start":138.78,
+          "end":139.1,
+          "probability":0.6857581734657288
+        }
+      ]
+    },
+    {
+      "id":62,
+      "seek":11410,
+      "start":139.48,
+      "end":140.74,
+      "text":" Ha ha ha ha!",
+      "tokens":[
+        51630,
+        4064,
+        324,
+        324,
+        324,
+        0,
+        51696
+      ],
+      "temperature":0,
+      "avg_logprob":-0.34790336538892275,
+      "compression_ratio":1.6074766355140186,
+      "no_speech_prob":0.005931548774242401,
+      "words":[
+        {
+          "word":" Ha",
+          "start":139.48,
+          "end":139.74,
+          "probability":0.006330805364996195
+        },
+        {
+          "word":" ha",
+          "start":139.74,
+          "end":140.16,
+          "probability":0.305634468793869
+        },
+        {
+          "word":" ha",
+          "start":140.16,
+          "end":140.68,
+          "probability":0.8430340886116028
+        },
+        {
+          "word":" ha!",
+          "start":140.68,
+          "end":140.74,
+          "probability":0.4646657109260559
+        }
+      ]
+    },
+    {
+      "id":63,
+      "seek":14074,
+      "start":142.28,
+      "end":143.52,
+      "text":" I mean, if you hate TikTok,",
+      "tokens":[
+        50410,
+        286,
+        914,
+        11,
+        498,
+        291,
+        4700,
+        20211,
+        11,
+        50518
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" I",
+          "start":142.28,
+          "end":142.72,
+          "probability":0.38531309366226196
+        },
+        {
+          "word":" mean,",
+          "start":142.72,
+          "end":142.82,
+          "probability":0.989287257194519
+        },
+        {
+          "word":" if",
+          "start":142.9,
+          "end":142.98,
+          "probability":0.9971339702606201
+        },
+        {
+          "word":" you",
+          "start":142.98,
+          "end":143.08,
+          "probability":0.9981940388679504
+        },
+        {
+          "word":" hate",
+          "start":143.08,
+          "end":143.24,
+          "probability":0.9882503747940063
+        },
+        {
+          "word":" TikTok,",
+          "start":143.24,
+          "end":143.52,
+          "probability":0.7397703528404236
+        }
+      ]
+    },
+    {
+      "id":64,
+      "seek":14074,
+      "start":143.64,
+      "end":145.22,
+      "text":" maybe you would like to see...",
+      "tokens":[
+        50518,
+        1310,
+        291,
+        576,
+        411,
+        281,
+        536,
+        485,
+        50590
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" maybe",
+          "start":143.64,
+          "end":143.96,
+          "probability":0.9949886202812195
+        },
+        {
+          "word":" you",
+          "start":143.96,
+          "end":144.18,
+          "probability":0.9910913109779358
+        },
+        {
+          "word":" would",
+          "start":144.18,
+          "end":144.46,
+          "probability":0.8341822028160095
+        },
+        {
+          "word":" like",
+          "start":144.46,
+          "end":144.58,
+          "probability":0.953615665435791
+        },
+        {
+          "word":" to",
+          "start":144.58,
+          "end":144.76,
+          "probability":0.994691789150238
+        },
+        {
+          "word":" see...",
+          "start":144.76,
+          "end":145.22,
+          "probability":0.518643856048584
+        }
+      ]
+    },
+    {
+      "id":65,
+      "seek":14074,
+      "start":145.22,
+      "end":147.14,
+      "text":" I was gonna say I kinda want it to be Elon.",
+      "tokens":[
+        50590,
+        286,
+        390,
+        799,
+        584,
+        286,
+        4144,
+        528,
+        309,
+        281,
+        312,
+        28498,
+        13,
+        50702
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" I",
+          "start":145.22,
+          "end":145.32,
+          "probability":0.35005831718444824
+        },
+        {
+          "word":" was",
+          "start":145.32,
+          "end":145.5,
+          "probability":0.9968453049659729
+        },
+        {
+          "word":" gonna",
+          "start":145.5,
+          "end":145.62,
+          "probability":0.882987380027771
+        },
+        {
+          "word":" say",
+          "start":145.62,
+          "end":145.82,
+          "probability":0.9985062479972839
+        },
+        {
+          "word":" I",
+          "start":145.82,
+          "end":146,
+          "probability":0.5437851548194885
+        },
+        {
+          "word":" kinda",
+          "start":146,
+          "end":146.24,
+          "probability":0.68077152967453
+        },
+        {
+          "word":" want",
+          "start":146.24,
+          "end":146.46,
+          "probability":0.7452811598777771
+        },
+        {
+          "word":" it",
+          "start":146.46,
+          "end":146.6,
+          "probability":0.9875900745391846
+        },
+        {
+          "word":" to",
+          "start":146.6,
+          "end":146.72,
+          "probability":0.9809017777442932
+        },
+        {
+          "word":" be",
+          "start":146.72,
+          "end":146.86,
+          "probability":0.4142179489135742
+        },
+        {
+          "word":" Elon.",
+          "start":146.86,
+          "end":147.14,
+          "probability":0.7679349184036255
+        }
+      ]
+    },
+    {
+      "id":66,
+      "seek":14074,
+      "start":147.54,
+      "end":149.3,
+      "text":" Ha ha ha ha ha!",
+      "tokens":[
+        50702,
+        4064,
+        324,
+        324,
+        324,
+        324,
+        0,
+        50780
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" Ha",
+          "start":147.54,
+          "end":147.96,
+          "probability":0.0011549688642844558
+        },
+        {
+          "word":" ha",
+          "start":147.96,
+          "end":148.32,
+          "probability":0.4635623097419739
+        },
+        {
+          "word":" ha",
+          "start":148.32,
+          "end":149.18,
+          "probability":0.9464491605758667
+        },
+        {
+          "word":" ha",
+          "start":149.18,
+          "end":149.22,
+          "probability":0.7837018370628357
+        },
+        {
+          "word":" ha!",
+          "start":149.22,
+          "end":149.3,
+          "probability":0.5112799406051636
+        }
+      ]
+    },
+    {
+      "id":67,
+      "seek":14074,
+      "start":152.58,
+      "end":153.4,
+      "text":" Oh man.",
+      "tokens":[
+        50960,
+        876,
+        587,
+        13,
+        51014
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" Oh",
+          "start":152.58,
+          "end":153.02,
+          "probability":0.6841996908187866
+        },
+        {
+          "word":" man.",
+          "start":153.02,
+          "end":153.4,
+          "probability":0.7050845623016357
+        }
+      ]
+    },
+    {
+      "id":68,
+      "seek":14074,
+      "start":154.74,
+      "end":156.96,
+      "text":" I just, I think the part of me that just like",
+      "tokens":[
+        51064,
+        286,
+        445,
+        11,
+        286,
+        519,
+        264,
+        644,
+        295,
+        385,
+        300,
+        445,
+        411,
+        51206
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" I",
+          "start":154.74,
+          "end":154.84,
+          "probability":0.9826292991638184
+        },
+        {
+          "word":" just,",
+          "start":154.84,
+          "end":155.04,
+          "probability":0.9040089249610901
+        },
+        {
+          "word":" I",
+          "start":155.24,
+          "end":155.52,
+          "probability":0.9970031380653381
+        },
+        {
+          "word":" think",
+          "start":155.52,
+          "end":155.72,
+          "probability":0.869361400604248
+        },
+        {
+          "word":" the",
+          "start":155.72,
+          "end":155.94,
+          "probability":0.975609302520752
+        },
+        {
+          "word":" part",
+          "start":155.94,
+          "end":156.12,
+          "probability":0.9992372989654541
+        },
+        {
+          "word":" of",
+          "start":156.12,
+          "end":156.3,
+          "probability":0.9992245435714722
+        },
+        {
+          "word":" me",
+          "start":156.3,
+          "end":156.42,
+          "probability":0.9985029697418213
+        },
+        {
+          "word":" that",
+          "start":156.42,
+          "end":156.56,
+          "probability":0.9848989844322205
+        },
+        {
+          "word":" just",
+          "start":156.56,
+          "end":156.8,
+          "probability":0.9878155589103699
+        },
+        {
+          "word":" like",
+          "start":156.8,
+          "end":156.96,
+          "probability":0.48720210790634155
+        }
+      ]
+    },
+    {
+      "id":69,
+      "seek":14074,
+      "start":157.48,
+      "end":159.46,
+      "text":" loves to see things burn sometimes.",
+      "tokens":[
+        51206,
+        6752,
+        281,
+        536,
+        721,
+        5064,
+        2171,
+        13,
+        51316
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" loves",
+          "start":157.48,
+          "end":157.92,
+          "probability":0.7805707454681396
+        },
+        {
+          "word":" to",
+          "start":157.92,
+          "end":158.18,
+          "probability":0.9988706707954407
+        },
+        {
+          "word":" see",
+          "start":158.18,
+          "end":158.38,
+          "probability":0.9991981387138367
+        },
+        {
+          "word":" things",
+          "start":158.38,
+          "end":158.7,
+          "probability":0.999411940574646
+        },
+        {
+          "word":" burn",
+          "start":158.7,
+          "end":158.94,
+          "probability":0.9622637033462524
+        },
+        {
+          "word":" sometimes.",
+          "start":158.94,
+          "end":159.46,
+          "probability":0.9830694198608398
+        }
+      ]
+    },
+    {
+      "id":70,
+      "seek":14074,
+      "start":159.46,
+      "end":161.16,
+      "text":" Just, you know, why not?",
+      "tokens":[
+        51316,
+        1449,
+        11,
+        291,
+        458,
+        11,
+        983,
+        406,
+        30,
+        51426
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" Just,",
+          "start":159.46,
+          "end":159.88,
+          "probability":0.9545952677726746
+        },
+        {
+          "word":" you",
+          "start":160.06,
+          "end":160.24,
+          "probability":0.9462313652038574
+        },
+        {
+          "word":" know,",
+          "start":160.24,
+          "end":160.4,
+          "probability":0.9996649026870728
+        },
+        {
+          "word":" why",
+          "start":160.82,
+          "end":161.04,
+          "probability":0.986889123916626
+        },
+        {
+          "word":" not?",
+          "start":161.04,
+          "end":161.16,
+          "probability":0.9991263747215271
+        }
+      ]
+    },
+    {
+      "id":71,
+      "seek":14074,
+      "start":161.9,
+      "end":162.7,
+      "text":" It is entertaining.",
+      "tokens":[
+        51426,
+        467,
+        307,
+        20402,
+        13,
+        51482
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" It",
+          "start":161.9,
+          "end":162.06,
+          "probability":0.9829811453819275
+        },
+        {
+          "word":" is",
+          "start":162.06,
+          "end":162.2,
+          "probability":0.994506299495697
+        },
+        {
+          "word":" entertaining.",
+          "start":162.2,
+          "end":162.7,
+          "probability":0.9957547187805176
+        }
+      ]
+    },
+    {
+      "id":72,
+      "seek":14074,
+      "start":163.84,
+      "end":165.76,
+      "text":" It's another thing that I don't like or use.",
+      "tokens":[
+        51530,
+        467,
+        311,
+        1071,
+        551,
+        300,
+        286,
+        500,
+        380,
+        411,
+        420,
+        764,
+        13,
+        51656
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" It's",
+          "start":163.84,
+          "end":164.22,
+          "probability":0.9944436252117157
+        },
+        {
+          "word":" another",
+          "start":164.22,
+          "end":164.4,
+          "probability":0.9968522191047668
+        },
+        {
+          "word":" thing",
+          "start":164.4,
+          "end":164.68,
+          "probability":0.9989566802978516
+        },
+        {
+          "word":" that",
+          "start":164.68,
+          "end":164.8,
+          "probability":0.9778690934181213
+        },
+        {
+          "word":" I",
+          "start":164.8,
+          "end":164.92,
+          "probability":0.9957621693611145
+        },
+        {
+          "word":" don't",
+          "start":164.92,
+          "end":165.16,
+          "probability":0.9992956221103668
+        },
+        {
+          "word":" like",
+          "start":165.16,
+          "end":165.28,
+          "probability":0.9955001473426819
+        },
+        {
+          "word":" or",
+          "start":165.28,
+          "end":165.48,
+          "probability":0.9731435179710388
+        },
+        {
+          "word":" use.",
+          "start":165.48,
+          "end":165.76,
+          "probability":0.9972002506256104
+        }
+      ]
+    },
+    {
+      "id":73,
+      "seek":14074,
+      "start":166.54,
+      "end":167.96,
+      "text":" So like, whatever.",
+      "tokens":[
+        51656,
+        407,
+        411,
+        11,
+        2035,
+        13,
+        51746
+      ],
+      "temperature":0,
+      "avg_logprob":-0.3163361593941662,
+      "compression_ratio":1.5095238095238095,
+      "no_speech_prob":0.00038592307828366756,
+      "words":[
+        {
+          "word":" So",
+          "start":166.54,
+          "end":166.76,
+          "probability":0.9348973035812378
+        },
+        {
+          "word":" like,",
+          "start":166.76,
+          "end":167.06,
+          "probability":0.7554192543029785
+        },
+        {
+          "word":" whatever.",
+          "start":167.44,
+          "end":167.96,
+          "probability":0.9855284094810486
+        }
+      ]
+    }
+  ],
+  "language":"en"
+}
